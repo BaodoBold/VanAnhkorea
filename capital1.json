@@ -4,118 +4,111 @@
         "capital": "Seo1ul",
         "latitude": 37.5665,
         "longitude": 126.9780
-      },
-
-    "BS":{
+    },
+    "BS": {
         "name": "Busan",
         "capital": "Bu1san",
         "latitude": 35.1796,
         "longitude": 129.0756
-      },
-
-    "IC":{
+    },
+    "IC": {
         "name": "Incheon",
         "capital": "Inc1heon",
         "latitude": 37.4563,
         "longitude": 126.7052
-      },
-
-    "DA":{
+    },
+    "DA": {
         "name": "Daegu",
         "capital": "Dae1gu",
         "latitude": 35.8714,
         "longitude": 128.6014
-      },
-      
-    "GJ":{
+    },
+    "GJ": {
         "name": "Gwangju",
         "capital": "Gwan1gju",
         "latitude": 35.1595,
         "longitude": 126.8526
-      },
-
-    "DJ":{
+    },
+    "DJ": {
         "name": "Daejeon",
         "capital": "Daej1eon",
         "latitude": 36.3504,
         "longitude": 127.3845
-      },
-
-    "DE":{
+    },
+    "DE": {
         "name": "Dongnae",
         "capital": "ngk1ok",
         "latitude": 35.2049,
         "longitude": 129.0840
-      },
-    "SP":{
+    },
+    "SP": {
         "name": "Suwon",
         "capital": "Suw1on",
         "latitude": 37.2636,
         "longitude": 127.0286
-      },
-    "UL":{
+    },
+    "UL": {
         "name": "Ulsan",
         "capital": "Uls1an",
         "latitude": 35.5384,
         "longitude": 129.3114
-      },
-    "TJ":{
+    },
+    "TJ": {
         "name": "Tongjin",
         "capital": "Ton1gjin",
         "latitude": 34.8450,
         "longitude": 128.4339
-      },
-    "GY":{
+    },
+    "GY": {
         "name": "Goyang",
         "capital": "Go1yang",
         "latitude": 37.6564,
         "longitude": 126.8351
-      },
-    "CW":{
+    },
+    "CW": {
         "name": "Changwon",
         "capital": "Chan1gwon",
         "latitude": 35.2272,
         "longitude": 128.6811
-      },
-    "SN":{
+    },
+    "SN": {
         "name": "Songnam",
         "capital": "Daej1eon",
         "latitude": 37.4449,
         "longitude": 127.1389
-      },
-
-    "SH":{
+    },
+    "SH": {
         "name": "Bucheon",
         "capital": "Buch1eon",
         "latitude": 37.4985,
         "longitude": 126.7831
-      },
-    "AY":{
+    },
+    "AY": {
         "name": "Anyang",
         "capital": "Any1ang",
         "latitude": 37.3920,
         "longitude": 126.9261
-      },
-    "GN":{
+    },
+    "GN": {
         "name": "Gwangmyeongni",
         "capital": "Gwan1gmyeongni",
         "latitude": 37.4782,
         "longitude": 126.8666
-      },
-  
-    "GP":{
+    },
+    "GP": {
         "name": "Gunpo",
         "capital": "Gun11po",
         "latitude": 37.3616,
         "longitude": 126.9356
-      },
-    "GI":{
+    },
+    "GI": {
         "name": "Guri",
         "capital": "Gur1ri",
         "latitude": 37.5985,
         "longitude": 127.1391
-      }
+    }
+    
+}
     
     
-  }
   
