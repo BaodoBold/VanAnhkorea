@@ -1,0 +1,139 @@
+{
+    "SE": 
+      {
+        "name": "Seoul",
+        "capital": "Seoul",
+        "latitude": 37.56,
+        "longitude": 126.99
+      },
+
+    "BS":
+      {
+        "name": "Busan",
+        "capital": "Busan",
+        "latitude": 35.18,
+        "longitude": 129.075
+      },
+
+    "IC":
+      {
+        "name": "Incheon",
+        "capital": "Incheon",
+        "latitude": 37.4833,
+        "longitude": 126.6333
+      },
+
+    "DA":
+      {
+        "name": "Daegu",
+        "capital": "Daegu",
+        "latitude": 35.8717,
+        "longitude": 128.6017
+      },
+      
+    "GJ":
+      {
+        "name": "Gwangju",
+        "capital": "Gwangju",
+        "latitude": 35.1653,
+        "longitude": 126.8486
+      },
+
+    "DJ":
+      {
+        "name": "Daejeon",
+        "capital": "Daejeon",
+        "latitude": 36.35,
+        "longitude": 127.385
+      },
+
+    "DE":
+      {
+        "name": "Dongnae",
+        "capital": "ngkok",
+        "latitude": 35.2016,
+        "longitude": 129.0848
+      },
+    "SP":
+      {
+        "name": "Suwon",
+        "capital": "Suwon",
+        "latitude": 37.2667,
+        "longitude": 127.0167
+      },
+    "UL":
+      {
+        "name": "Ulsan",
+        "capital": "Ulsan",
+        "latitude": 15.1201,
+        "longitude": 105.8019
+      },
+    "TJ":
+      {
+        "name": "Tongjin",
+        "capital": "Tongjin",
+        "latitude": 37.2333,
+        "longitude": 127.2
+      },
+    "GY":
+      {
+        "name": "Goyang",
+        "capital": "Goyang",
+        "latitude": 37.65,
+        "longitude": 126.8
+      },
+    "CW":
+      {
+        "name": "Changwon",
+        "capital": "Changwon",
+        "latitude": 35.2708,
+        "longitude": 128.6631
+      },
+    "SN":
+      {
+        "name": "Songnam",
+        "capital": "Daejeon",
+        "latitude": 37.4333,
+        "longitude": 127.15
+      },
+
+    "SH":
+      {
+        "name": "Bucheon",
+        "capital": "Bucheon",
+        "latitude": 37.5,
+        "longitude": 126.7833
+      },
+    "AY":
+      {
+        "name": "Anyang",
+        "capital": "Anyang",
+        "latitude": 37.2667,
+        "longitude": 126.9333
+      },
+    "GN":
+      {
+        "name": "Gwangmyeongni",
+        "capital": "Gwangmyeongni",
+        "latitude": 37.476,
+        "longitude": 105.8019
+      },
+  
+    "GP":
+      {
+        "name": "Gunpo",
+        "capital": "Gunpo",
+        "latitude": 37.35,
+        "longitude": 126.95
+      },
+    "GI":
+      {
+        "name": "Guri",
+        "capital": "Gurri",
+        "latitude": 37.6,
+        "longitude": 127.15
+      }
+    
+    
+  }
+  
